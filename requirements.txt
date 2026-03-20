@@ -5,6 +5,13 @@ pydantic==1.10.12
 google-generativeai==0.3.2
 google-auth==2.25.0
 google-auth-oauthlib==1.2.0
+google-api-python-client==2.111.afastapi==0.68.0
+uvicorn[standard]==0.15.0
+httpx==0.24.1
+pydantic==1.10.12
+google-generativeai==0.3.2
+google-auth==2.25.0
+google-auth-oauthlib==1.2.0
 google-api-python-client==2.111.0==0.104.1
 uvicorn[standard]==0.24.0
 httpx==0.25.2
